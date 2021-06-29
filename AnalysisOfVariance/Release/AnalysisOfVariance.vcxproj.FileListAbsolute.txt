@@ -1,0 +1,3 @@
+C:\Users\wowul\Desktop\Proga\AnalysisOfVariance\AnalysisOfVariance\Release\AnalysisOfVariance.WindowsApp.resources
+C:\Users\wowul\Desktop\Proga\AnalysisOfVariance\AnalysisOfVariance\Release\AnalysisOfVariance.vcxproj.GenerateResource.cache
+C:\Users\wowul\Desktop\Proga\AnalysisOfVariance\AnalysisOfVariance\Release\AnalysisOfVariance.vcxprojAssemblyReference.cache
